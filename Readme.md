@@ -1,5 +1,6 @@
-# Ejercicio Docker y docker-compose
+# Solución del ejercicio Docker y docker-compose
 
+## Problema:
 En este repositorio, vamos a crear nuestra aplicación contenerizada con Node.js y MongoDB.
 
 El objetivo de este ejercicio es crear un contenedor para la aplicación de Node.js, un contenedor para la base de datos de MongoDb y un volumen con los datos almacenados en MongoDB. Poder conectarlo todo entre si y ejecutarlo.
